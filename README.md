@@ -14,7 +14,4 @@ I have earned badges in the following domains:
 - **SQL**
 - **C Language**
 
-## 📂 Code Submissions
-Explore my solutions to various HackerRank challenges in the `solutions/` directory of this repository.
 
-🚀 **Stay tuned for more updates!**
